@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/stevenshear/ss-DevOpsPoc/_apis/build/status%2Fsteveshear.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/stevenshear/ss-DevOpsPoc/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
