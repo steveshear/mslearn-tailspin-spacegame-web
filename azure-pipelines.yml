@@ -37,7 +37,7 @@ steps:
   workingDirectory: $(wwwrootDir)
 
 - task: DotNetCoreCLI@2
-  displayName: 'Restore project dependencies'
+  displayName: 'Restore project dependencies 1'
   inputs:
     command: 'restore'
     projects: '**/*.csproj'
